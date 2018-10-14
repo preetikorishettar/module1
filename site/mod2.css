@@ -1,0 +1,115 @@
+*{
+	box-sizing: border-box;
+	
+
+}
+	h1{
+	text-align: center;
+}
+.div1{
+	border: 1px solid black;
+	margin: 20px;
+	margin-bottom: 10px;
+	padding: 10px;
+	width: 30%;
+	float: left;
+	background-color: #eccc68;
+}
+.div2{
+	border: 1px solid black;
+	margin: 20px;
+	margin-bottom: 10px;
+	padding: 10px;
+	width: 30%;
+	float: left;
+	background-color: #eccc68;
+}
+.div3{
+	border: 1px solid black;
+	margin: 20px;
+	margin-bottom: 10px;
+	padding: 10px;
+	width: 30%;
+	float: left;
+	background-color: #eccc68;
+}
+.title1{
+	border: 1px solid black;
+	float: right;
+	position: relative;
+	bottom:11px;
+	padding:5px;
+	right: -10px;
+	background-color: #e67e22;
+}
+.title2{
+	border: 1px solid black;
+	float: right;
+	position: relative;
+	bottom:11px;
+	padding:5px;
+	right: -10px;
+	background-color: #ff4757;
+}
+.title3{
+	border: 1px solid black;
+	float: right;
+	position: relative;
+	bottom:11px;
+	padding:5px;
+	right: -10px;
+	background-color: #2980b9;
+}
+section{
+	clear: right;
+}
+@media (min-width: 992px) and (max-width: 1200px)
+{
+	*{
+		box-sizing: border-box;
+	}
+	.div1{
+		width: 25%;
+	}
+	.div2{
+		width: 25%;
+	}
+	.div3{
+		width: 25%;
+	}
+
+}
+@media (min-width: 768px) and (max-width: 991px)
+{
+	*{
+		box-sizing: border-box;
+	}
+	.div1{
+		width:43%;
+
+	}
+	.div2{
+		width: 43%;
+	}
+	.div3{
+		width: 92%;
+	}
+}
+@media (max-width: 767px)
+{
+	*{
+		box-sizing: border-box;
+	}
+	.div1{
+		width:80%;
+		margin-left: 10%;
+	}
+	.div2{
+		width: 80%;
+		margin-left: 10%;
+	}
+	.div3{
+		width: 80%;
+		margin-left: 10%;
+	}
+}

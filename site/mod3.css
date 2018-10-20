@@ -1,0 +1,72 @@
+.jumbotron {
+  height: 40px;
+    
+    background-color: #fff !important;
+}
+h1{
+    font-size: 50px !important;
+    
+}
+.navbar-brand{
+    margin-top: -23px;
+   
+}
+ul{
+    text-align: center;
+}
+#main{  
+    text-align: center;
+    background-color:#7f8c8d;
+    margin: 20px;
+
+}
+#main1{  
+    text-align: center;
+    background-color: #7f8c8d;
+    margin: 20px;
+
+}
+#main2{  
+    text-align: center;
+    background-color: #7f8c8d;
+    margin: 20px;
+
+}
+#a{
+    text-align: center;
+    font-size: 35px;
+    margin-top: -40px;
+}
+.title1{
+    float: center;
+	position: relative;
+	bottom:11px;
+	padding:5px;
+	right: -10px;
+    font-size: 40px;
+	
+}
+.title2{
+    float: center;
+	position: relative;
+	bottom:11px;
+	padding:5px;
+	right: -10px;
+    font-size: 40px;
+	
+}
+.title3{
+    float: center;
+	position: relative;
+	bottom:11px;
+	padding:5px;
+	right: -10px;
+    font-size: 40px;
+	
+}
+p
+{
+    font-size: 20px;
+    text-align: justify;
+    
+}
